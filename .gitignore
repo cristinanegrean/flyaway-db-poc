@@ -12,3 +12,4 @@ RemoteSystemsTempFiles
 target/
 atlassian-ide-plugin.xml
 *.versionsBackup
+dependency-reduced-pom.xml
